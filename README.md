@@ -15,3 +15,10 @@ Transaction ID: [0xed1f3c2cd20db896aca10564eb60c95864c7111bdd81ec5e83c34fc94a1b6
 Address: [0xc0fFee0000C824D24E0F280f1e4D21152625742b](https://explorer.kcc.io/en/address/0xc0ffee0000c824d24e0f280f1e4d21152625742b)
 
 Transaction ID: [0x54b3950e15e69ad620a442484efb0194530560eb1194be7db04bc42634cb1cb0](https://explorer.kcc.io/en/tx/0x54b3950e15e69ad620a442484efb0194530560eb1194be7db04bc42634cb1cb0)
+
+<br>
+
+## Token Contract
+Address: [0xc0ffeE0000921eB8DD7d506d4dE8D5B79b856157](https://explorer.kcc.io/en/address/0xc0ffeE0000921eB8DD7d506d4dE8D5B79b856157)
+
+Transaction ID: [0x1102fd4b6475e8784e89ad1dc09f24c7e15e68f3d782a912c321b3d77df75f46](https://explorer.kcc.io/en/tx/0x1102fd4b6475e8784e89ad1dc09f24c7e15e68f3d782a912c321b3d77df75f46)
