@@ -32,6 +32,27 @@ Transaction ID: [0x6d744363a70099e1b2018303aa18429b84b7838831e93c20c8f2530971917
 
 <br>
 
+## KCS-KOFFEE Brew Contract
+Address: [0xC0FFeE0000123A0DfdE79aaAA124B4919393cd0F](https://explorer.kcc.io/en/address/0xC0FFeE0000123A0DfdE79aaAA124B4919393cd0F)
+
+Transaction ID: [0x7c92ea8f241ae1b1f682429d7e2a606995e386fbfebff6efd279363b71769e09](https://explorer.kcc.io/en/tx/0x7c92ea8f241ae1b1f682429d7e2a606995e386fbfebff6efd279363b71769e09)
+
+<br>
+
+## KOFFEE-USDT Brew Contract
+Address: [0xC0FfeE0000c3C9087Bc012d00F13ad5c781cEe87](https://explorer.kcc.io/en/address/0xC0FfeE0000c3C9087Bc012d00F13ad5c781cEe87)
+
+Transaction ID: [0x375eb9ff0f058922568aa3c78b30b86eef95518648508014e5e9ad58f2b2fec2](https://explorer.kcc.io/en/tx/0x375eb9ff0f058922568aa3c78b30b86eef95518648508014e5e9ad58f2b2fec2)
+
+<br>
+
+## KOFFEE-USDC Brew Contract
+Address: [0xc0fFEe0000961b3e66C635e3395EAbc6A637c8A2](https://explorer.kcc.io/en/address/0xc0fFEe0000961b3e66C635e3395EAbc6A637c8A2)
+
+Transaction ID: [0x7675a8e1c0aa0fe1d7ec86eacf5c279e6a671a90da6f731c370253bebefcbbeb](https://explorer.kcc.io/en/tx/0x7675a8e1c0aa0fe1d7ec86eacf5c279e6a671a90da6f731c370253bebefcbbeb)
+
+<br>
+
 ## KCS-USDT Brew Contract
 Address: [0xc0Ffee000019988Ae7e8aaA41AF3886eB8750401](https://explorer.kcc.io/en/address/0xc0Ffee000019988Ae7e8aaA41AF3886eB8750401)
 
